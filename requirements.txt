@@ -1,0 +1,16 @@
+streamlit
+upstash-redis
+langchain
+langchain-community
+langchain-together
+faiss-cpu
+huggingface-hub
+python-docx
+PyPDF2
+pillow
+pytesseract
+numpy
+tensorflow
+keras
+
+python-dotenv
